@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projects\\CSharp\\AzureAppMapTest\\JHAzureAppMapTest\\JHAzureAppMapTest\\JHAzureAppMapTest.csproj",
+      "projectUniqueName": "C:\\Projects\\CSharp\\AzureAppMapTest\\JHAzureAppMapTest.csproj",
       "projectName": "JHAzureAppMapTest",
-      "projectPath": "C:\\Projects\\CSharp\\AzureAppMapTest\\JHAzureAppMapTest\\JHAzureAppMapTest\\JHAzureAppMapTest.csproj",
+      "projectPath": "C:\\Projects\\CSharp\\AzureAppMapTest\\JHAzureAppMapTest.csproj",
       "packagesPath": "C:\\Users\\James\\.nuget\\packages\\",
-      "outputPath": "C:\\Projects\\CSharp\\AzureAppMapTest\\JHAzureAppMapTest\\JHAzureAppMapTest\\obj\\",
+      "outputPath": "C:\\Projects\\CSharp\\AzureAppMapTest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
